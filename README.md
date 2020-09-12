@@ -34,7 +34,10 @@ A a Pre-Final Year Computer Science Student, an experienced Software Developer w
 
 I am currently looking for Full Time/ Internship Offer for any Software Development Roles. Pls, checkout my [Resume](https://drive.google.com/file/d/1BYZcHo9SGrI5h10fxFbtqPLz86ni_VnR/view?usp=sharing).  I am very passionated about Software Development :heart:
 
-<a href="https://twitter.com/1rahulchandra1"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.PNG?raw=true" width="60"></a><a href="https://www.linkedin.com/in/rahul-chandra-a8371b11b/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.PNG?raw=true" width="60"></a><a href="https://facebook.com"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.PNG?raw=true" width="60"></a><a href="https://instagram.com/rahulchandra_99"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.PNG?raw=true" width="60"></a>
+<a href="https://twitter.com/1rahulchandra1"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
+<a href="https://www.linkedin.com/in/rahul-chandra-a8371b11b/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
+<a href="https://facebook.com"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a>
+<a href="https://instagram.com/rahulchandra_99"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
 
 ## Getting Started
 
