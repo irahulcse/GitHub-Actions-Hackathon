@@ -1,7 +1,7 @@
 ![Image](images/rovers.jpg)
 # GitHub Actions Flutter :boom:
 
-Flutter Pokemon Application is a very intutive and nice UI and JSON based Application in this we are basically fetching ther result from the JSON File to create UI. 
+This is the repo which can be used to get the GitHub Actions using the Flutter.   
 
 ## Unique Features of the Application:
 * [✅]Widgets created for the UI are like as Card, Hero, Animation, Positioned.
@@ -35,61 +35,6 @@ A a Pre-Final Year Computer Science Student, an experienced Software Developer w
 I am currently looking for Full Time/ Internship Offer for any Software Development Roles. Pls, checkout my [Resume](https://drive.google.com/file/d/1BYZcHo9SGrI5h10fxFbtqPLz86ni_VnR/view?usp=sharing).  I am very passionated about Software Development :heart:
 
 <a href="https://twitter.com/1rahulchandra1"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.PNG?raw=true" width="60"></a><a href="https://www.linkedin.com/in/rahul-chandra-a8371b11b/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.PNG?raw=true" width="60"></a><a href="https://facebook.com"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.PNG?raw=true" width="60"></a><a href="https://instagram.com/rahulchandra_99"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.PNG?raw=true" width="60"></a>
-
-
-### Testing
-
-Testing of the Project is Done :heavy_check_mark:
-
-### Basic Workflow/If you want to contribute to this project:
-You can follow the below workflow, if you are new to Git. 
-
-#### Initial setup
-1. Fork the main A-Complete-Guide-To-Flutter
-2. Clone this repo on your machine
-3. Add the main repo as "upstream"
-  * `git remote add upstream https://github.com/irahulcse/A-Complete-Guide-To-Flutter`
-
-#### Starting a new issue
-1. Get the latest version of the project
-  * `git fetch upstream`
-  * `git checkout master`
-  * `git pull upstream master`
-
-2. Create a new branch starting from that newly updated main branch, and link it to your GitHub fork.
-  * `git checkout -b MyNewIssue`
-  * `git push --set-upstream origin MyNewIssue`
-
-3. Make your changes, commit them, and push them to your fork
-  * *make changes*
-  * `git commit -a`
-  * *write a good commit message*
-  * `git push`
-
-#### Rebasing your branch
-When there have been changes in the main repo that you want to get, the cleanest option is often to rebase your branch on top of the latest commits.
-
-1. Get the latest commits and update your local master branch
-  * `git fetch upstream`
-  * `git checkout master`
-  * `git pull upstream master`
-
-2. Rebase your in-progress feature branch
-  * `git checkout MyInProgressFeature`
-  * `git rebase master`
-  * `git push -f`
-
-#### Resetting a branch after you've messed it up
-1. Make sure there isn't any work that you care about losing
-2. Do a hard reset to the branch you want to restart from.
-  * `git checkout MyMessedUpBranch`
-  * `git reset --hard upstream/master`
-
-#### Adding a single commit from one branch to another branch
-1. Find and copy the commit ID that you want to use
-2. Cherry-pick that commit
-  * `git checkout MyCleanBranch`
-  * `git cherry-pick COMMIT_ID`
 
 ## Getting Started
 

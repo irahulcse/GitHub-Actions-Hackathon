@@ -1,5 +1,5 @@
 #!/bin/sh
 git pull origin master
 git add .
-git commit -m "First Commit using Bash Timestamp(`date +%F-%T`)"
+git commit -m "GitHub Actions Token related to Commit"
 git push -f origin master
