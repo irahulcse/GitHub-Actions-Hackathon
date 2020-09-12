@@ -1,7 +1,50 @@
 ![Image](images/rovers.jpg)
 # GitHub Actions Flutter :boom:
 
-This is the repo which can be used to get the GitHub Actions using the Flutter.   
+This is the repo which can be used to get the GitHub Actions using the Flutter. The Project is working on this link https://irahulcse.github.io/GitHub-Actions-Hackathon/#/
+
+## GitHub Actions File:
+This example first fetches the dependencies with `flutter pub get` and then builds an web application deployed using GitHub Pages on the Web.
+
+```
+flutter_web.yaml
+name: Flutter Web Buid Project
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Setup Flutter
+        uses: subosito/flutter-action@v1
+        with:
+          channel: "beta"
+
+      - name: Enable Flutter Web
+        run: flutter config --enable-web
+
+      - name: Install dependencies
+        run: flutter packages get
+
+      - name: Build Web
+        run: flutter build web
+
+      - name: Build Actions
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{secrets.token}}
+          publish_dir: ./build/web
+
+```
+
 
 ## Unique Features of the Application:
 * [✅]Widgets created for the UI are like as Card, Hero, Animation, Positioned.
